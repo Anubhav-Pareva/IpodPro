@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IpodPro/static/css/main.00fdfa9a.css",
+    "main.js": "/IpodPro/static/js/main.7a18d2c2.js",
+    "static/js/787.6c452077.chunk.js": "/IpodPro/static/js/787.6c452077.chunk.js",
+    "static/media/The Last Ride - Sidhu Moose Wala 320 Kbps.mp3": "/IpodPro/static/media/The Last Ride - Sidhu Moose Wala 320 Kbps.7e724b83b811ea3f88da.mp3",
+    "static/media/Maan Meri Jaan_320(PagalWorld.cm).mp3": "/IpodPro/static/media/Maan Meri Jaan_320(PagalWorld.cm).ecdeed1df7cd82d4175e.mp3",
+    "static/media/Daku_320(PagalWorld.cm).mp3": "/IpodPro/static/media/Daku_320(PagalWorld.cm).3de82724d2eb8fdc8f63.mp3",
+    "static/media/pexels-serafettin-ünye-17694350.jpg": "/IpodPro/static/media/pexels-serafettin-ünye-17694350.76b3fc8328055a33cd8f.jpg",
+    "static/media/cover-flow.png": "/IpodPro/static/media/cover-flow.77f9b9c404f44f371893.png",
+    "static/media/Maan-Meri-Jaan-Purvish.jpg": "/IpodPro/static/media/Maan-Meri-Jaan-Purvish.afa9882ac47640ee5cba.jpg",
+    "static/media/Daku-feat-Inderpal-Moga-English-2021-20230309091928-500x500.jpg": "/IpodPro/static/media/Daku-feat-Inderpal-Moga-English-2021-20230309091928-500x500.59d275b41d00b6d9958b.jpg",
+    "static/media/Sidhu-Moose-Wala-The-Last-Ride-Lyrics-Status-Download.jpg": "/IpodPro/static/media/Sidhu-Moose-Wala-The-Last-Ride-Lyrics-Status-Download.8731bcd9cb5766638880.jpg",
+    "static/media/Settings-L-icon.png": "/IpodPro/static/media/Settings-L-icon.9d1b50f40dcee614ab87.png",
+    "static/media/game-icon.png": "/IpodPro/static/media/game-icon.3648436cbcdf66784ce6.png",
+    "index.html": "/IpodPro/index.html",
+    "main.00fdfa9a.css.map": "/IpodPro/static/css/main.00fdfa9a.css.map",
+    "main.7a18d2c2.js.map": "/IpodPro/static/js/main.7a18d2c2.js.map",
+    "787.6c452077.chunk.js.map": "/IpodPro/static/js/787.6c452077.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00fdfa9a.css",
+    "static/js/main.7a18d2c2.js"
+  ]
+}
