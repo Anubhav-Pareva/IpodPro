@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+  height: 90vh;
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5%;
+}
+#ipod-container{
+  border: 1px solid black;
+  border-radius: 22px;
+  width: 300px;
+  height: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+  background-color: lightgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background: radial-gradient(circle at center, black 0.15rem, lightgray 0);
+  background-size: 1rem 1rem;
+  background-repeat: round;
+  box-shadow: 0px 0px 20px 4px inset;
+}
+#main-div{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  border-radius: 100%;
+  background-color: white;
+  margin: 0 auto;
+}
+#inner-div{
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  border-radius: 100%;
+  background-color: darkgray;
+  position: relative;
+  right: 40px;
+  top: 50px;
+}
+span{
+  text-align: center;
+  font-size: 1rem;
+}
+#sid1,#sid2,#sid3,#sid4{
+  border: none;
+  background-color: transparent;
+}
+#sid4{
+  position: relative;
+  top: 10px;
+    right: 45px;
+}
+#sid2{
+  position: relative;
+  bottom: 11px;
+  left: 90px;
+}
+#sid3{
+  position: relative;
+  top: 55px;
+    right: 13px
+}
+#sid1{
+  position: relative;
+  bottom: 60px;
+  left: 65px;
+}
+#scr-div{
+  border: 4px solid black;
+  border-radius: 12px;
+  width: 90%;
+  margin: 0 auto;
+  height: 100%;
+  background-image: url("pexels-serafettin-ünye-17694350.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#section-1{
+  height: 45%;
+}
+.scr-ul{
+  display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+    margin: 0px;
+    width: 50%;
+    background-color: white;
+    list-style: none;
+    padding: 0;
+}
+.scr-li{
+  background-color: lightskyblue;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+}
